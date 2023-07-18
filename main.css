@@ -2341,7 +2341,7 @@ fieldset {
 
   z-index: 2;
   left: 5%;
-  transform: translateX(15px) translateY(-225px);
+  transform: translateX(25px) translateY(-225px);
   position:relative;
   animation-name:PHOTO;
   animation-duration: 1.5s;
