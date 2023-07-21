@@ -1035,7 +1035,7 @@ html {
   position: relative;
   border-radius: 12px;
   background: #ffffff00;
-background-image: url(Untitled\ design.png);
+background-image: url(bg.png);
 }
 @keyframes  url(Untitled\ design\ \(1\).png){
   max-width: 100%;
@@ -2584,9 +2584,15 @@ to {top: -20px;}
   top: 10px;
 font-size: 1rem;}
 
+.fa-linkedin{ 
+  left:8px;
+  top:10px
+
+}
+
 .fa-facebook,
 .fa-link {
-  left: 16px;
+  left: 14px;
 }
 .fa-youtube
 {left: 9px;
@@ -2600,7 +2606,7 @@ top: 10px;}
 
 .fa-instagram,
 .fa-whatsapp {
-  left: 10px;
+  left: 9px;
   top: 13px;
 }
 
@@ -2634,6 +2640,10 @@ to {top: 0px;}
   background: #2eb133;
 }
 
+#linkedin-icon
+{
+  background: #035199;
+}
 #whatsapp-icon {
   background: #27af67;
 }
