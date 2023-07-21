@@ -2817,7 +2817,18 @@ to {top: 0px;} }
   }
 }
 
+.links-and-notes
+{
 
+  background-color: #a3a1a125;
+  border-radius: 5%;
+max-width: 95%;
+margin: 15px;
+
+justify-content: center;
+
+
+}
 
 .logoo{
   color: #ffffff;
